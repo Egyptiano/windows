@@ -5,7 +5,7 @@ services:
     environment:
       USERNAME: "User5054"
       PASSWORD: "5054User"
-      VERSION: "10"
+      VERSION: "tiny10"
       RAM_SIZE: "8G"
       CPU_CORES: "4"
       DISK_SIZE: "128G"
